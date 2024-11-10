@@ -22,7 +22,7 @@ const Home = () => {
     <p className="text-center text-lg">
     As a beginner-level front-end and back-end developer, I am on a thrilling journey of discovery,
      delving into the world of artificial intelligence and Metaverse 3.0 from Sindh Governer House
-     Through my course, I'm gaining invaluable skills that bridge the gap between creating intuitive user
+     Through my course, I am gaining invaluable skills that bridge the gap between creating intuitive user
       interfaces and robust server-side functionalities. This blend of learning has me not only coding and 
       building dynamic websites and applications but also exploring the cutting-edge technologies that will shape our
        digital future. Every day is a new adventure, filled with challenges and triumphs, 
