@@ -4,7 +4,7 @@ const Hero = ()=> {
     return(
         <section className="bg-purple-400 h-400px w-80% m-auto flex justify-center items-center">
             <div className="bg-purple-500 flex flex-col h-400px w-80% item-center justify-center h-screen ">
-                <h2 className="text-center text-lg">
+                <h2 className="text-center text-lg h-20 text-[50px]">
                     Welcome to My Portfolio
                 </h2>
                 <p className=" text-black text-align-center flex-justify-center" >
